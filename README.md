@@ -1,2 +1,2 @@
 # SmartJoules
-SJ retrofit home automation design
+SJ retrofit home automation PCB design
